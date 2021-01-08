@@ -6,6 +6,8 @@
 # To configure, compile, install, just run this script.
 #     python setup.py install
 
+# pygame is a nice module
+
 import io
 
 with io.open('README.rst', encoding='utf-8') as readme:
